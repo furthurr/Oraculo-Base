@@ -77,7 +77,7 @@ El resto de opciones y sus valores de ejemplo están en `.env.example`.
 
 ## Autor
 
-Pedro G. V. @furthurr
+<a href="https://furthurr.github.io/" target="_blank" rel="noopener noreferrer">Pedro G. V. @furthurr</a>
 
 - GitHub: https://github.com/furthurr
 - Email: pedrogvas@gmail.com
