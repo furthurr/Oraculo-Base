@@ -1,0 +1,39 @@
+# Variables de entorno y secretos locales
+.env
+.env.*
+!.env.example
+
+# Logs y archivos del sistema
+*.log
+.DS_Store
+
+# Documentación local de herramientas de desarrollo
+AGENTS.md
+.architecture/
+.navigator/
+.quality/
+.sdd/
+.security/
+
+# Espacio de trabajo documental del bot
+/workspace/
+
+# Adjuntos temporales de sesión
+/temp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.venv312/
+venv/
+
+# Herramientas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build
+build/
+dist/
